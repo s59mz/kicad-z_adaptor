@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C4,C3,C9,C2,C5,C8,C7";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";7;"100n";;;
+2;"J5";"PinHeader_2x18_P2.54mm_Vertical";1;"DAC module 2-ch";;;
+3;"C1,C6";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"10u";;;
+4;"H1";"MountingHole_2.5mm";1;"2.5";;;
+5;"J2";"PinHeader_2x20_P2.54mm_Vertical";1;"Alinx HDMI/ETH module";;;
+6;"J7";"PinSocket_2x06_P2.54mm_Horizontal";1;"pmod";;;
+7;"J6";"PinSocket_2x09_P2.54mm_Horizontal";1;"camera";;;
+8;"J4";"PinHeader_2x17_P2.54mm_Vertical";1;"AD DA module";;;
+9;"J3";"PinHeader_2x16_P2.54mm_Vertical";1;"ADC module 2-ch";;;
+10;"J1";"PinSocket_2x20_P2.54mm_Vertical";1;"Z-Turn Extension";;;
